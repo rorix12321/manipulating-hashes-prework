@@ -14,6 +14,6 @@ groceries.each do |keys|
  end
  end
 
-
+return stuff
 
 end
