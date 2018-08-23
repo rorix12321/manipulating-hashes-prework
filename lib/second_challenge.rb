@@ -8,8 +8,8 @@ def second_challenge
 
   #code your solution here!
   stuff = []
-groceries.each do |keys|
- x.each do |values|
+groceries.each do |keys, values|
+ values.each do |values|
    stuff << values
  end
  end
