@@ -7,8 +7,7 @@ def second_challenge
   }
 
   #code your solution here!
-  keys = []
-  keys << groceries.values
+groceries.values
 
 
 
